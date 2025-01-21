@@ -13,9 +13,11 @@ Please do not write to Isuse in their repository with errors that occur in envir
 Vintaguim UnOfficial cannot support Issuse!
 
 ## Contributors
+## Originator
 <a href="https://github.com/Asek3/sodium-1.12/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Asek3/sodium-1.12" />
 </a>
+Thanks for All Originator Contributors.
 
 ## License
 [LGPL-3.0 license](https://github.com/Asek3/sodium-1.12/blob/12.x/forge/LICENSE.txt)
